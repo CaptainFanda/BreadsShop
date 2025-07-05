@@ -1,0 +1,70 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.header {
+    background-color: black;
+    color: silver;
+    height: 10vh;
+    text-align: center;
+    border-bottom: 4px solid aqua;
+
+}
+.footer {
+    background-color: black;
+    color: silver;
+    height: 10vh;
+    width: 100%;
+    text-align: center;
+    border-top: 4px solid aqua;
+    position: absolute;
+    bottom: 0;
+
+}
+.main {
+    padding: 20px;
+}
+.breads {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.baton {
+    background-color: silver;
+    border: 4px solid black;
+    width: 300px;
+    height: 400px;
+    float: left;
+}
+.baton img {
+    width: 100%;
+    height: 30%;
+}
+.black-bread {
+    background-color: silver;
+    border: 4px solid black;
+    width: 300px;
+    height: 400px;
+    margin-left: 5%;
+    float: left;
+}
+.black-bread img {
+    width: 100%;
+    height: 30%;
+}
+.baget {
+    background-color: silver;
+    border: 4px solid black;
+    width: 300px;
+    height: 400px;
+    margin-left: 5%;
+    float: left;
+}
+.baget img {
+    width: 100%;
+    height: 30%;
+}
+.main h1 {
+    color: black;
+    text-align: center;
+}
